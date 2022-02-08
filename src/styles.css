@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  padding: 0 10px;
+}
+
+.wrongItem {
+  color: #c11212;
+  font-weight: bold;
+}
+
+.listHeader {
+  font-weight: bold;
+  border-bottom: 0.2rem solid #a7a7a7;
+}
+
+.listItem {
+  border-bottom: 0.1rem solid #e1e1e1;
+}
